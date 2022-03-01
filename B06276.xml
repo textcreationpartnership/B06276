@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the cruel dealings of William Pocklington of North Collingham in the county of Nottingham, with the innocent people of God called Quakers, in the same county.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06276</idno>
+            <idno type="OCLC"> 13803999</idno>
+            <idno type="STC">Wing T2939</idno>
+            <idno type="STC">Interim Tract Supplement Guide 4152.f.20[15]</idno>
+            <idno type="STC">ESTC R12915</idno>
+            <idno type="EEBO-CITATION">99882746</idno>
+            <idno type="PROQUEST">ocm99882746</idno>
+            <idno type="VID">183700</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06276)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183700)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B1:5[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the cruel dealings of William Pocklington of North Collingham in the county of Nottingham, with the innocent people of God called Quakers, in the same county.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1667]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: Given forth the 12th month (called February) 1667. from us who are called Quakers.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pocklington, William --  Early works to 1800.</term>
+               <term>Society of Friends --  England --  Early works to 1800.</term>
+               <term>Society of Friends --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:183700:1" rendition="simple:additions"/>
+            <head>A true Relation of the Cruel dealings of <hi>William Pock<g ref="char:EOLhyphen"/>lington</hi> of <hi>North Collingham</hi> in the County of <hi>Nottingham,</hi> with the Innocent People of God cal<g ref="char:EOLhyphen"/>led <hi>Quakers,</hi> in the ſame County.</head>
+            <p>
+               <hi>WIlliam Pocklington</hi> is a man that hath cauſed great and heavy Sufferings to be inflicted upon us for more than nine years, and he ſtill groweth in his Envy and Cruel<g ref="char:EOLhyphen"/>ty towards us, as one that hatcheth miſchief upon his bed, ſo that we are conſtrained to bear our Teſtimony againſt his evil deeds and actions, which are briefly comprehended in theſe parti<g ref="char:EOLhyphen"/>culars following.</p>
+            <list>
+               <item>1. He cauſed <hi>William Smith</hi> of <hi>Beſthorp</hi> to be arreſted in his own name for Tythes, when the Tythes of that place were not in his own hand; and <hi>William Smith was ſent to Priſon,</hi> and kept a Pri<g ref="char:EOLhyphen"/>ſoner about 21 weeks.</item>
+               <item>2. He cauſed <hi>William Smith</hi> to be arreſted again in his own name for Tythes, when the Tythes were not yet in his own hand, and then <hi>William Smith</hi> had clearneſs to give bond for his appear<g ref="char:EOLhyphen"/>ance, and did appear according to Law.</item>
+               <item>3. He cauſed <hi>Robert Carnel</hi> of <hi>North Collingham,</hi> to be arreſted upon forfeit of the Bond for <hi>William Smiths appearance, Robert</hi> be<g ref="char:EOLhyphen"/>ing bound with <hi>William</hi> for his appearance; and <hi>Robert</hi> was ſent to Priſon, and kept a priſoner about 12 weeks, notwithſtanding <hi>William Smith</hi> had diſcharged the Bond by his appearance.</item>
+               <item>4. He cauſed <hi>Thomas Elſam</hi> of <hi>Gerton,</hi> to be arreſted for Tythes, and much of his Hay and Corn were taken for Tythes, and <hi>Tho<g ref="char:EOLhyphen"/>mas</hi> was ſent to Priſon, and kept a Priſoner a long time.</item>
+               <item>5. He cauſed <hi>William Thorpe</hi> of <hi>Gerton</hi> to be arreſted, and ſent to Priſon, for about two or three Cocks of Corn, which he pretended were due to him for Tythes.</item>
+               <item>6. He cauſed <hi>William Smiths</hi> Corn to be taken off his Land for Tythes, after the Tythes came into his own hand; and then cauſed
+<pb n="2" facs="tcp:183700:2" rendition="simple:additions"/>him to be arreſted again for Tythes, and he was kept a Priſoner a<g ref="char:EOLhyphen"/>bove five years, and his Corn taken both before and all that time.</item>
+               <item>7. He cauſed about nineteen men to be ſent to Priſon for meet<g ref="char:EOLhyphen"/>ing peaceably together to wait upon God, and to worſhip God in Spirit and Truth; and they ſuffered a long time.</item>
+               <item>8. He often cauſed our peaceable Meetings to be broken up, and he himſelf preſent; he cauſed ſome women to be thruſt forth of the Town, and charged the Conſtable of <hi>Gerton,</hi> that he ſhould not ſuffer them to meet in the Night; and ſome Women-friends being one night with a Woman in travel, the Conſtable came, and would not ſuffer them to ſtay.</item>
+               <item>9. He cauſed the Town where we uſually met, to ſet Watch-men at the Gate, to keep us forth of the Houſe, and we were conſtrain<g ref="char:EOLhyphen"/>ed to keep our Meeting abroad upon a Green, though the ſeaſon was wet and cold: And the Town was put to much charge with him and his Company at the Alehouſe, which he much frequented, and would make the Town bear the Charge. This work he continu<g ref="char:EOLhyphen"/>ed for ſeveral weeks together.</item>
+               <item>10. He cauſed <hi>William Smiths</hi> Goods to be ſeized, after his more than five years impriſonment; and both his Sheep, Beaſts, Horſe, Hay and Corn were taken away, to the value of above threeſcore pounds, for Tythes; and <hi>William Smith</hi> was a Priſoner, and never gave any appearance to the Writ, not never knew of any proceed<g ref="char:EOLhyphen"/>ings againſt him.</item>
+            </list>
+            <p>Now all moderate People may ſee how <hi>William Pocklington</hi> hath behaved himſelf among his neighbours, and how there is neither love, pity, mercy, juſtice, or equity in his goings, and how he hath acted contrary to the Law of the Nation in theſe following parti<g ref="char:EOLhyphen"/>culars.</p>
+            <list>
+               <item>1. To Impriſon a man for that which is not in his own hand, but in the hand of another.</item>
+               <item>2. To Impriſon a man upon forfeit of a Bond, when the Bond is really diſcharged.</item>
+               <item>3. To cauſe any mans Corn to be taken off his Ground without his conſent.</item>
+               <item>4. To come into any mans houſe, and pull ſuch forth as are peace<g ref="char:EOLhyphen"/>ably together, and to ſend them to Priſon.</item>
+               <item>5. To cauſe Watchmen to keep people forth of any houſe where
+<pb n="3" facs="tcp:183700:2" rendition="simple:additions"/>they have juſt right to come, and to cauſe a Town to pay Ale<g ref="char:EOLhyphen"/>houſe reckonings, when the Town is not concerned.</item>
+               <item>6. To cauſe above ſixty pounds worth of Goods to be taken for Tythes, and the party Impriſoned upon the Writ, and never gave any appearance, and his Corn taken off his Land for Tythes all the time of his Impriſonment and before; and ſometimes a whole Land of Corn taken away together for Tythes.</item>
+            </list>
+            <p>And now whether we have not ſufficient cauſe to bear our Te<g ref="char:EOLhyphen"/>ſtimony againſt <hi>William Pocklington</hi> as a cruel mercileſs man; for as his actions are contrary to the Law, ſo they are without mercy and full of cruelty; and as he is a tranſgreſſor of the Law, he may be juſtly queſtioned for his doings by the Law: for ſuch dealings and proceedings are a ſhame to the Law; that is made for honeſt &amp; good ends, and a ſhame to thoſe that practiſe in the Law for honeſt and good ends, that is, to right ſuch as ſuffer wrong; and ſuch things are a diſhonour to the Government, as uſing the Kings Name in what is ſo done. For <hi>William Pockington</hi> told a Friend, <hi>That the King knew of the taking of William Smiths Goods,</hi> and <hi>that they were taken in the Kings Name;</hi> but the King will have no cauſe to take ſuch a man to be his Friend, that layeth ſuch actions upon him and his Name. And we do the rather publiſh theſe things, that both the King and Country may have certain knowledge of them, and alſo of <hi>William Pocklington,</hi> who hath done and cauſed them to be done.</p>
+            <p>And during the time in which he was cauſing ſuch ſpoile to be made upon <hi>William Smiths</hi> Goods, there were ſome Papers deliver<g ref="char:EOLhyphen"/>ed to him as followeth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>William Pocklington,</hi> The Lord God dwelleth in the Light, and his power is over all, and in the Light he beholdeth all thy unjuſt and illegal proceedings, which thou actest by the Prince of Darkneſs, which now ruleth in thee; but the Lord ſtand at our right hand, and with true judgment and righteouſneſs will plead our cauſe againſt thee; and when he ſhall execute the fierceneſs of his wrath what wilt thou then do? thy fair words wherewith thou flattereſt thy ſelf and others, will not then hide thee, for in the Light thy deeds are all manifeſt, and in the hearts of all moderate men, they appear exceeding evil and full of cruelty: there<g ref="char:EOLhyphen"/>fore in love to thy ſoul I warn thee to repent, and return that which thou unjuſtly haſt cauſed to be taken from us, or be thou ſure the Lord (for whoſe Truth we ſuffer) will viſit thee in thy inward parts, and there he
+<pb n="4" facs="tcp:183700:3" rendition="simple:additions"/>will be a terrour to thee and will terrifie thee day and night, but his peace is, and for ever will remain with us.</p>
+                  <closer>
+                     <signed>Elizabeth Smith.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>Friend, <hi>William Pocklington,</hi> there is a great cry in the Country concerning thy actions and doings, by which the eyes of People thereabouts are over thee, wondering what will be the end thereof, and are amazed that the Earth opens not her mouth and ſwallows thee up, for I have not heard the like cry and noiſe, between <hi>London</hi> and the Town where thou liveſt. Thou who didſt keep <hi>William Smith,</hi> a Neighbour, about five years in Priſon, and now for the value of about four Nobles, haſt taken above ſixty pounds worth of goods from him, having gotten a Judgement by ſome indirect means, unknown to him and his Attourney how thou haſt ſtollen out this Judgement; Doſt thou think the Truth will not ſearch and find out ſuch things? Doſt thou think that ſuch unparral<g ref="char:EOLhyphen"/>lel'd actions of thine muſt lye and ſteep? Didſt thou not rage at the Bailiffs, becauſe they did not pluck his very Bed from under him (he be<g ref="char:EOLhyphen"/>ing ſick and lame) when thou hadſt taken away his Sheep and Beaſts, and ſeized upon his Hay and Corn, and locked up his Barn door, for the value of four Nobles, for Tythes pretended? Is not this contrary to hu<g ref="char:EOLhyphen"/>manity, and Chriſtianity? Doſt thou not think that the Lords eye is open to behold and ſee thy actions, and doſt thou think that he will let the wicked go unpuniſhed? Doſt thou think he will ſuffer the Spoiler to go without his Reward? and doſt thou think that thou which ravens ſo much af<g ref="char:EOLhyphen"/>ter the goods of others, and caſts them into priſon, alſo driving away their goods by droves, and locking up the Barn door, and art ſo greedy after the earth, doſt thou think that the Lord will not ſtop and fill thy mouth with earth ere long? Doſt thou think that the Country taketh not notice of thy lying in Alehouſes, drinking and making ſpoil of the goods of the Innocent, thy ſelling and making bargains in the Alehouſe of them? Doſt thou not think there is a God that will puniſh the wicked, or a Chriſt that will render vengeance upon the ungodly? his hand is over thee, and thou wilt feel it to thy judgment and condemnation. Oh happy would it be, if thou couldſt find a place for repentance! An Old Man with gray hairs doting after the goods of the Innocent, loading himſelf with the ſpoil! I believe thou wilt have thy load, when thou haſt gotten all the above ſaid ſixty pounds, of Cattle, Sheep, Hay and Corn upon thy head; thou wilt find the weight of it upon thy head to make thy neck crack. Oh full of darkneſs, who hateſt the Light, thou haſt forgotten the time when
+<pb n="5" facs="tcp:183700:3" rendition="simple:additions"/>thou waſt in thy affliction, what did <hi>William Smith</hi> do for the then! Oh cumber not the ground thou fruitleſs tree, for the earth will vomit thee out, and God will vomit out all ſuch as gather riches by cruelty and op<g ref="char:EOLhyphen"/>preſſion, and the ſpoil of the Innocent will eat thee out, thou wilt be ne<g ref="char:EOLhyphen"/>ver the richer for it at the years end: for God cauſeth a blaſt upon thee, and upon what thou haſt, and bringeth his plagues and judgements to con<g ref="char:EOLhyphen"/>ſume what thou haſt, who delighteſt in ſpoiling the goods of the Innocent. What honour haſt thou gained by thy ravening among men but ſhame and judgement? the time may come that thou mayeſt wiſh, <hi>thou hadſt ne<g ref="char:EOLhyphen"/>ver been born.</hi> Reade the Execution and its date, reade thy Liberty and its date, and alſo read thy own works; to the Witneſs of God in thee I ſpeak, that will be thy condemnation. I ſay the time may come that thou maieſt wiſh, that <hi>thou hadſt never been born.</hi> For, oh man, What haſt thou been doing? doſt thou go on blind<g ref="char:EOLhyphen"/>fold, doſt thou not think that the eye of God and People are over thee? haſt thou thrown off God, Chriſt, and Scriptures both? Canſt thou not read, nor ſee what became of thoſe <hi>that filled their houſes with the ſpoil of the Innocent?</hi> and doſt thou cry, the Law hath done it, and thou haſt done it by Law? What Law? where was <hi>William Smith</hi> when judgement was given? Well, remember that in thy life-time thou haſt been warned, for many viſitations thou haſt had; take heed lest the day come upon thee, wherein the evil ſpirit thou ſerveſt will torment thee, ſo that thou wilt ſeek for death and not find it, when thy head is full of di<g ref="char:EOLhyphen"/>ſtraction and confuſion; for Gods power is over thee, and I believe that all honeſt people that are neighbours, that have any fear of God before their eyes, and are of repute among men, will be aſhamed of thy actions; ſo here thou art come under the judgement of God and all good men. Farewell.</p>
+                  <closer>
+                     <signed>L. F.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>And notwithſtanding theſe faithful warnings to him, he ſtill purſu<g ref="char:EOLhyphen"/>ed his work, whilſt any thing was left abroad to work upon; and <hi>W. Smiths</hi> Wife bearing Teſtimony againſt the wickedneſs of thoſe that he imployed about lading the Hay &amp; Corn away, one of the Bailiffs ſaid, <hi>We have not done yet,</hi> and ſaid, <hi>we ſhal not have done until you leave your wayes:</hi> but we ſhall not leave our wayes, that are juſt and true, to walk in the ways of ſuch as follow miſchief; for the Lord God will render tribulation and vengeance unto cruel and mercileſs men, and that is the Cup which they muſt drink when they have filled up their meaſure, and finiſhed their work: But it ſeems they
+<pb n="6" facs="tcp:183700:4" rendition="simple:additions"/>have not yet done, for it is ſaid, that <hi>VVilliam Pocklington</hi> intend<g ref="char:EOLhyphen"/>eth to take away <hi>VVilliam Smiths</hi> Corn again the next year, if he ſow his Land, by which it appeareth that he is hatching miſchief in his mind ſo long before the time come.</p>
+            <p>Object. <hi>But is it not reaſonable and equitable that a man ſhould re<g ref="char:EOLhyphen"/>ceive Tythes that he farmeth and payeth rent for, as a Farmer doth for his Farm? and do not ſuch do him wrong as withhold Tythes from him that he payeth rent for?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> No; it is not reaſonable nor equitable that a man ſhould receive Tythes, though he farm them and pay rent for them; be<g ref="char:EOLhyphen"/>cauſe no man hath a proper Title or Intereſt to let any ſuch part of the profit and increaſe of another; for Reaſon and Equity conclud<g ref="char:EOLhyphen"/>eth, that every man is worthy to receive the benefit of his own Land, Labour &amp; Charge, and that he is not to be forced to yeeld any part of it to another, neither is another to force any part from him. And though the ſons of <hi>Levi</hi> had a commandment to take Tythes of their Brethren, according to the Law, yet that commandment is not now to be pleaded as to the ſame right, becauſe Chriſt Jeſus is come and hath diſannulled it, <hi>Heb.</hi> 7. And there is no Law or com<g ref="char:EOLhyphen"/>mandment of men that can give a proper Title or Intereſt in Tythes under a Goſpel-adminiſtration; and ſeeing ſuch as let Tythes to farm have not a proper Title or Intereſt to let them, then ſuch as take them, and pay rent for them, do covenant and agree in their own wrong, and ſuch as withhold them, withhold them in their own right, as having the ſame Title and Intereſt in the tenth part, as in the nine, and none have power to make the tenth part a good Title unto another; and that maketh the taking of Tythes to be void in the ground or original: But ſuch as take a Farm upon rent, they take it from a good Title and Intereſt, if it be a clear Eſtate with<g ref="char:EOLhyphen"/>out any Incumberance, and they are worthy to receive the profits which they pay rent for, becauſe the Letter hath a good Title in the Land, and the Farmer beſtoweth his labour and charge upon it; and theſe are propper and peculiar Rights, both in the Letter and the Farmer; and it is agreeable to Reaſon and Equity, as a Branch is agreeable to the Root that bears it. But Tythes are taken out of the Land, Labour and Charge of another, which is no way agreeable to Reaſon and Equity. And though many Diſputations and Argu<g ref="char:EOLhyphen"/>ments have been, and yet are maintained to uphold them, ſome by
+<pb n="7" facs="tcp:183700:4" rendition="simple:additions"/>Divine Right, and ſome by Humane Right, yet the matter is de<g ref="char:EOLhyphen"/>termined in a few words; for ſince Chriſt diſannul'd the Com<g ref="char:EOLhyphen"/>mandment under the Law, Tythes have never been pay'd by Divine Right, and no Humane Power can make them of right due unto any man whatſoever. So Chriſt having ended the pay<g ref="char:EOLhyphen"/>ment of Tythes, as to the <hi>Jews</hi> obſervation, and that there is no command for them to be paid under the Goſpel-diſpenſation, they muſt needs be now introduced by ſome framed Invention, and that cannot be a ground to force the payment of them; and we that are called <hi>Quakers,</hi> have well weighed theſe things in the Light with which Chriſt Jeſus hath enlightened us, in which Light we have ſeen his coming, and the end of the Law and firſt Covenant by his coming, and a neceſſity is laid upon us to confeſs his coming; and we are ſatisfied, that neither Prieſt nor Impropriator have a good Intereſt in Tythes under the Goſpel-adminiſtration: We do not deny them from any opinion, conceit, or ſelf-ends, as ſome would charge us, but in love to Chriſt Jeſus, who hath given his Teſti<g ref="char:EOLhyphen"/>mony freely to us; and it is evident that we do not deny Tythes from any opinion, conceit, or ſelf-ends, for we ſuffer Impriſon<g ref="char:EOLhyphen"/>ment many years together, at a great charge and loſs of time, and many have ſuffered the loſs of their natural lives by ſuch impriſon<g ref="char:EOLhyphen"/>ments; and we ſuffer the ſpoiling and loſs of our goods, to the va<g ref="char:EOLhyphen"/>lue of many pounds, whereas a few ſhillings might ſatisfie if we could willingly pay our Tythes; ſo that only Conſcience ſake to<g ref="char:EOLhyphen"/>wards God is the ground why we deny them; and it is opinion, con<g ref="char:EOLhyphen"/>ceit, and ſelf-ends in ſuch as take them. And it doth plainly ap<g ref="char:EOLhyphen"/>pear in what <hi>William Pocklington</hi> hath done concerning <hi>William Smith,</hi> upon that very account, and alſo in what many Prieſts and Impropriators have done as to many others, who are faithful in their Teſtimony unto the coming of Chriſt Jeſus.</p>
+            <p>And now, <hi>VVilliam Pocklington,</hi> thou art called up to the Bar of Truth, and foraſmuch as thou, not having the fear of God before thy eyes, haſt acted and done ſuch wicked things as are before re<g ref="char:EOLhyphen"/>lated, contrary to the Law of God and Nature, and alſo contrary to the Law of the Nation, and ſo againſt the King his Crown and Dig<g ref="char:EOLhyphen"/>nity; and that they are true concerning thee, thou art found guil<g ref="char:EOLhyphen"/>ty of Perſecution, and Truth giveth Judgment upon that ſpirit that ruleth in thee, and by the Truth it is condemned for ever, and Truth marketh thee for a <hi>wicked Perſecutor</hi> and <hi>cruel Spoiler.</hi>
+            </p>
+            <pb facs="tcp:183700:5" rendition="simple:additions"/>
+            <p>O <hi>William,</hi> Sorrow will fill thy heart, though for a time thou maiſt make thy ſelf merry with thy Alehouſe company, but O thy End, thy End! what will it be, thou wilt know when it comes, and it cometh ſwiftly, and thou canſt not be hid, the Lord wil find thee &amp; judg thee according to thy works, for thou haſt long reigned in thy wickedneſs, and thy preſumption is ſo high as that thou goeſt on from evil to worſe, neither leaving Cattel for Fodder, nor Fodder for Cattel, nor Seed for the Sower; and we cannot let thee lie any longer as a Fox in his hole that alwayes watcheth how he may come to his prey and devour the Lambs, but we muſt teſtifie againſt thy evil deeds, and lay thy wickedneſs upon thy own head, and it will be a load upon thee in the day of thy Judgment, for thou haſt always been lifted up with pride and vain glory; and thou haſt always ſought to bear rule over others with a high hand, and becauſe we cannot bend unto thee thou exerciſeſt cruelty; but we rejoyce in the Truth which is over thee, and thou canſt neither ruine us nor root us out; and both the King and Country have cauſe to be jealous of thee, who art ſo full of pride, deceit and hypocriſie; for how can it be expected that thou ſhouldſt be true to the King and Country in thy Office of <hi>High Conſtable,</hi> when thy actions are ſo notoriouſly wicked? and not<g ref="char:EOLhyphen"/>withſtanding thy wicked intention to ruine us, and thy high expectation of enriching thy ſelf with what thou takeſt from us, yet the Lord may fruſtrate thy end in both, and he may take thee in thy own ſnare; for that which thou wickedly intendeſt againſt others may fall upon thy ſelf, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the Lord may cauſe thy own work to torment thee, by turning it upon thee; but as for the Innocent he ſaves them in his hand, and they feel his mercy.</p>
+            <p>Now read thy ſelf, thy works &amp; name, for thou haſt gotten a name that will remain unto future generations, and they will read thee to be a Perſ<g ref="char:EOLhyphen"/>cutor, &amp; ſo thou wilt leave an ill ſavour behind thee; and except thou re<g ref="char:EOLhyphen"/>pent, thy works will be a continual torment to thee, and thou wilt cer<g ref="char:EOLhyphen"/>tainly periſh for ever. And all ſuch as are partakers with <hi>William Pock<g ref="char:EOLhyphen"/>lington</hi> in his wicked works, and make your ſelves merry with him in the Alehouſes, and buy ſuch goods as by his means are unjuſtly taken from the right owners, you muſt all come to repentance, for you are in the ſame ſpirit of wickedneſs; and the ſpoil which you greedily purchaſe will be a ſcourge upon you (mark the end of it) therefore repent and fear the living God, and make not a mock at Sin, nor be ſcornful at Reproof, for the Lord will not hold you guiltleſs. O read your works, you evil workers, who ſport your ſelves in your own wickedneſs, Read your <hi>Wantonneſs, Drunkenneſs, Swearing, Curſing, Lying, Deceit, Laughter</hi> and <hi>Madneſs;</hi> read your own con<g ref="char:EOLhyphen"/>ditions, and ſee whether you be like <hi>men</hi> &amp; <hi>Chriſtians,</hi> or worſe than <hi>Infidels</hi> and <hi>Heathens;</hi> for the Heathens have more ſobriety and honeſty as men; &amp; if you will not turn at reproof &amp; ceaſe from wickedneſs, the Lord will bring weeping &amp; wailing and gnaſhing of teeth upon you; and this is to you all whoſe faces are ſet to do wickedly, that ye may repent before calamity come upon you, and it is ſpread abroad as a Teſtimony againſt all evil works and workers; for it is not good to have reſpect of perſons in judgment; <hi>He th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſaith to the wicked, Thou art Righteous, him ſhall the people curſe, Nations ſha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> abhor him; but to them that rebuke him, ſhal be delight, and a good bleſſing ſhal come upon them,</hi> Pro. 24. And this Teſtimony the Lord God upholdeth where he ſets it, and the wickedneſs of the wicked cannot root it out or deſtroy it,</p>
+            <closer>
+               <dateline>
+                  <hi>Given forth</hi> 
+                  <date>
+                     <hi>the</hi> 12th <hi>month</hi> (<hi>called</hi> February) 1667.</date>
+               </dateline>
+               <signed>
+                  <hi>from us who are called</hi> QUAKERS.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
